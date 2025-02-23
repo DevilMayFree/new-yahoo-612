@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+    <url>
+        <loc>https://ljnewsyahoo.tw/%E8%81%AF%E6%8D%B7%E6%8A%95%E8%B3%87%E6%94%9C%E6%89%8B%E5%9C%8B%E5%AE%B6%E7%99%BC%E5%B1%95%E5%9F%BA%E9%87%91%EF%BC%8C%E4%BF%83%E9%80%B2%E5%9C%8B%E5%AE%B6%E7%B6%93%E6%BF%9F%E7%99%BC%E5%B1%95%EF%BC%8C%E5%8A%A9%E5%8A%9B%E6%95%A3%E6%88%B6%EF%BC%8C%E9%81%BF%E5%85%8D%E5%9C%A8%E5%B8%82%E5%A0%B4%E5%81%9A%E3%80%8C%E9%9F%AD%E8%8F%9C%E3%80%8D.html</loc>
+        <priority>0.3</priority>
+        <lastmod>2025-02-18</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+
+    <url>
+        <loc>https://ljnewsyahoo.tw/</loc>
+        <priority>0.3</priority>
+        <lastmod>2025-02-18</lastmod>
+        <changefreq>always</changefreq>
+    </url>
+
+</urlset>
